@@ -1,0 +1,50 @@
+/*breadcrumbs*/
+.yclads-breadcrumb{
+    color:#9b9b9b;
+    padding-left: 0.75em;
+}
+
+.yclads-breadcrumb a{
+    text-decoration: none;
+    color:#454545;
+}
+.yclads-breadcrumb a:hover,.yclads-breadcrumb a:focus{
+	color:#dd2c0d;
+}
+
+/*search*/
+
+#yclads_categories ul.cat-column{
+    width:100px;
+    float:left
+}
+#yclads_categories ul.cat-column ul{
+    font-size:0.85em;
+    padding-left: 5px;
+}
+
+#oqp-search-menu #yclads_tags_list{
+	clear:both;
+	padding:10px;
+}
+
+/*ads*/
+/*breadcrumbs*/
+
+.ad-breadcrumb {
+	width:640px!important;
+	border:none!important;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:0.78em;
+    display: block;
+    height: 21px;
+    margin: 0;
+    padding: 5px;
+}
+
+/*TAGS*/
+.yclad_tag a,a.yclad_tag,.yclad_tag label {
+	background:url("_inc/images/tag_orange.png") no-repeat scroll 0 0 transparent;
+	margin-right:5px;
+	padding-left:18px!important;
+}
